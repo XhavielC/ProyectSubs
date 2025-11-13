@@ -118,4 +118,4 @@ useEffect(() => {
 
 - **Autor original**: garu2 (Gary AT)
 - **Adaptación a TypeScript**: XhavielC
-- **Año**: 2022
+- **Año**: 2025
